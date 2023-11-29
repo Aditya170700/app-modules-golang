@@ -7,6 +7,7 @@ Selamat datang! Repository ini berisi file pembelajaran modules di bahasa pemrog
 
 1. **menambahkan dependency**
 2. **update dependency**
+3. **update major dependency**
 
 ## Sumber Daya Eksternal
 
